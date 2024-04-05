@@ -9,7 +9,7 @@ Lançado em 2005, foi um sucesso absoluto e bastante aclamado pela crítica, sej
 
 ## 🐣Legado
 
-- Dead Space
+- Dead Space 1, 2 e 3
 - The Evil Within
 - The Last of Us
 
