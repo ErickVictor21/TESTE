@@ -18,7 +18,7 @@ Lançado em 2005, foi um sucesso absoluto e bastante aclamado pela crítica, sej
 
 | Diretor | Dubladores|
 ----------|------------
-|Shinji Mikami| Leon(Paul Mercier), Ada(Sally Cahill) e etc.
+|Shinji Mikami| Leon(Paul Mercier), Ada(Sally Cahill) e etc.|
 
 ## 😎Comando git pq fodasekkkj
 
